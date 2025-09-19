@@ -41,7 +41,7 @@ The very first time you run this, the program will do two things automatically i
 You will then see the first menu on your screen!
 
 
-
+-----
 **The First Screen: Your Starting Point**
 
 This is the main menu. You have three choices. To pick one, just type the number and press **Enter**.
@@ -129,7 +129,7 @@ If you log in as the Admin, you'll see a special menu with powerful tools.
 
 -----
 
-**5. The Customer Dashboard: Your Shopping Hub**
+**The Customer Dashboard: Your Shopping Hub**
 
 When you log in with your own customer account, you'll see your personal menu.
 
