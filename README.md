@@ -3,6 +3,8 @@ A command-line e-commerce platform in Python featuring a multi-layered architect
 
 
 **User Manual**
+
+
 Think of this as a pretend online shop that runs on your computer. It's a simple program where you can create an account, browse items, and pretend to place orders.
 
 There are two kinds of users in this shop:
