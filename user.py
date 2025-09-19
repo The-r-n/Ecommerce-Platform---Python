@@ -1,4 +1,4 @@
-# user.py
+# File: user.py
 # Creation Date: 18/04/2025
 # Last Modified Date: 18/04/2025
 # Description: This file contains the User class, which serves as a base class for Customer and Admin.
